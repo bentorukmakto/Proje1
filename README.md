@@ -1,7 +1,7 @@
 https://app.patika.dev/  Veri Yapilari ve Algoritmalar odevi
 
 
-# Patika.dev Proje 1
+# Patika.dev Proje Veri Yapilari ve algoritmalar Odevleri Proje 1
 
 [22,27,16,2,18,6] -> Insertion Sort
 
